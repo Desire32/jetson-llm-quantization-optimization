@@ -1,3 +1,6 @@
+[![TechRxiv DOI](https://img.shields.io/badge/TechRxiv-10.36227/techrxiv.177273703.32888475/v1-blueviolet)](https://doi.org/10.36227/techrxiv.177273703.32888475/v1)
+
+
 ## How to use
 - hardware: jetson orin nano
 - docker: jetson-containers (nanollm)
